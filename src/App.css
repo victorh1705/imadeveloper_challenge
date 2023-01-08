@@ -1,0 +1,11 @@
+#root {
+    margin: 0 auto;
+}
+
+.lineargradient {
+    background: linear-gradient(111deg, rgba(1, 0, 22, 1) 0%, rgba(35, 35, 97, 1) 12%, rgba(86, 60, 150, 1) 24%, rgba(87, 44, 105, 1) 49%, rgba(82, 28, 56, 1) 77%, rgba(35, 15, 43, 1) 89%, rgba(1, 0, 22, 1) 100%);
+}
+
+.wave-background {
+    background-size: 200% 200%;
+}
